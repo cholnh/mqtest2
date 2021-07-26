@@ -1,4 +1,4 @@
-package kr.nzzi.msa.mqtest2;
+package kr.nzzi.msa.mqtest2.rabbidmq;
 
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
